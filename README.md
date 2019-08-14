@@ -15,3 +15,8 @@ Changelog: 28.07.2019.
 ----------------------
 
 Changed icon: start.svg
+
+Changelog: 14.08.2019.
+----------------------
+
+Modified widget: clock.svg
